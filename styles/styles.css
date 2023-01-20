@@ -1,0 +1,22 @@
+
+.star-width{
+    width: 20px;
+}
+
+.card-width{
+    width: 22rem;
+}
+
+.footer-color{
+    background-color: rgb(8, 8, 24);
+}
+.footer-text-color{
+    color: white;
+}
+@media screen and (max-width:767px) {
+    .forcefully-left-text{
+        text-align: left !important; 
+        /* padding-left: 25px; */
+    }
+}
+
